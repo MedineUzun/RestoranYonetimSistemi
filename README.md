@@ -21,7 +21,3 @@ This project simulates a restaurant management system where multiple operations 
 
 Built as a learning project to understand and master thread management and concurrent programming in C#.
 
-
-## Contact
-
-Medine Uzun - [medineuzundev@gmail.com](mailto:medineuzundev@gmail.com)
